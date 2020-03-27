@@ -1,0 +1,10 @@
+name: Heroes
+author: Adam Aguilera
+description: Testing plugin
+version: 1.0
+api-version: 1.13
+main: io.adamaguilera.heroes.Hero
+commands:
+    hero:
+        description: This is a demo command.
+        usage: /hero <heroname>
