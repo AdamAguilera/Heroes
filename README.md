@@ -1,7 +1,8 @@
 
-Author: Adam Aguilera
+# Author: 
+Adam Aguilera
 
-## Heroes #UNFINISHED
+# Heroes *UNFINISHED*
 Minecraft plugin which adds heroes with different abilities.
 
 # Version
@@ -26,9 +27,9 @@ Minecraft plugin which adds heroes with different abilities.
   return type: message directly to player
 
 
-## Hero List
+# Hero List
 
-# Bakugo
+## Bakugo
 Passive Perks:
   Fire Resistance infinite duration.
   
@@ -51,7 +52,7 @@ Items:
      cooldown: 60
      ability type: special
      
-# Todoroki
+## Todoroki
 Passive Perks:
   Walking on any form of ice or snow grants speed I
   Walking on packed ice grants speed II
@@ -74,11 +75,11 @@ Items:
      cooldown: 60s
      ability type: super
      
-# Pointer # INPROGRESS
+## Pointer *INPROGRESS*
 
-# INPROGRESS
+*INPROGRESS*
 
-# Deku # INPROGRESS
+## Deku *INPROGRESS*
 
-# INPROGRESS
+*INPROGRESS*
 
